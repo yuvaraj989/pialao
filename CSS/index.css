@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.featured-content {
+    text-align: justify;
+}
+
+.social-icons {
+    font-size: 21px;
+}
+.head{
+    height: 90px;
+    font-size: 20px;
+    background-color: rgb(57, 45, 75); 
+}
+.nav{
+    text-decoration: none;
+    color: black;
+    justify-content: space-evenly;
+    font-size: 20px;
+    font-weight: 500;
+}
+.nav1{
+    height: 150px;
+    align-items: center;
+}
+.background-image {
+    background-image: url('https://meetpiola.com/wp-content/uploads/2019/05/Piola_LibraryFiguresPost_BG_v2.jpg');
+    background-size: cover;
+    height: 100vh; 
+    position: absolute;
+    
+}
+.r1{
+    margin-bottom: 200px;
+    
+}
+.r2{
+    font-size: x-large;
+}
+.r3{
+    background-color: white;
+   height: 180px;
+   
+    position: relative;
+    z-index: 1;
+}
+.img{
+    height: 600px; 
+    width: 1050px;
+    
+}
+.footer{
+    background-color: rgb(52, 51, 51);
+  
+    
+}
+.hr-line {
+   
+    position: relative;
+    margin: 15px;
+    border-bottom: 1px solid rgb(193, 190, 190);
+  }
+ 
